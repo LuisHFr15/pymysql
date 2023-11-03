@@ -1,2 +1,2 @@
-# clone-tab-news
-Curso.dev by Filipe Deschamps, creating TabNews from zero
+# pymysql
+Learning and applying my knowledges with pymysql
